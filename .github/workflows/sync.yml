@@ -1,0 +1,38 @@
+name: Sync Cyberportal Subscriptions
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Запуск каждый час
+  workflow_dispatch: # Позволяет запускать Action вручную из вкладки Actions
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Разрешаем боту делать коммиты и пушить
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Run sync script
+        run: python sync.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add *.txt
+          
+          # Если есть изменения в текстовых файлах - коммитим и пушим
+          if git diff --staged --quiet; then
+            echo "No changes to commit (subscriptions are up to date or portal is down)"
+          else
+            git commit -m "Auto-update subscriptions [skip ci]"
+            git push
+          fi
