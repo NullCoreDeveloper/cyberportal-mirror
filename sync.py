@@ -23,7 +23,7 @@ for filename, url in SUBS.items():
         }
     )
     
-    max_retries = 3
+    max_retries = 5
     success = False
     
     for attempt in range(1, max_retries + 1):
