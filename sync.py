@@ -32,7 +32,7 @@ for filename, url in SUBS.items():
                 content = response.read().decode('utf-8').strip()
                 
                 # Проверка, чтобы случайно не сохранить ошибку Cloudflare или 404 страницу портала
-                if len(content) > 10 and ("vless://" in content or "vmess://" in content or content.startswith("ey")):
+                if len(content) > 10 and ("://" in content or content.startswith("ey")):
                     with open(filename, 'w', encoding='utf-8') as f:
                         f.write(content)
                     print(f"[{attempt}/{max_retries}] Success! Saved to {filename} ({len(content)} bytes)")
