@@ -1,11 +1,11 @@
 # profile-title: 🌀 CYBERPORTAL WL — SNI White All RU
 # profile-update-interval: 1
-# updated: 13.10.2026 17:01 MSK
+# updated: 14.10.2026 13:46 MSK
 # Назначение: SNI, полный белый список РФ
 # TG chat: @strbypass
 # TG: https://t.me/STR_BYPASS
-# Date/Time: 2026-10-13 / 16:46 (Moscow)
+# Date/Time: 2026-10-14 / 13:38 (Moscow)
 # Количество: 3
-vless://4eb80efa-363e-4f7f-a787-7e280c5dadd0@132.243.74.70:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=yandex.ru&pbk=4puvvJ1CFZuEGMT_h2gxqLzYpgmKEfDV1omah9ATKQs&sid=57ce34a1cbed916f&fp=chrome#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20SNI%20White%20All%20RU%20%7C%20%F0%9F%87%AA%F0%9F%87%AA%20%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F%20%C2%B7%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%231
-vless://4eb80efa-363e-4f7f-a787-7e280c5dadd0@132.243.74.70:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=yandex.ru&pbk=4puvvJ1CFZuEGMT_h2gxqLzYpgmKEfDV1omah9ATKQs&sid=57ce34a1cbed916f&fp=edge#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20SNI%20White%20All%20RU%20%7C%20%F0%9F%87%AA%F0%9F%87%AA%20%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F%20%C2%B7%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%232
-vless://4eb80efa-363e-4f7f-a787-7e280c5dadd0@132.243.74.70:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=yandex.ru&pbk=4puvvJ1CFZuEGMT_h2gxqLzYpgmKEfDV1omah9ATKQs&sid=57ce34a1cbed916f&fp=firefox#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20SNI%20White%20All%20RU%20%7C%20%F0%9F%87%AA%F0%9F%87%AA%20%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F%20%C2%B7%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%233
+vless://8732f92b-ba85-48f7-92e4-ad029f1cd4e7@45.59.120.217:443?type=tcp&security=reality&sni=strm.yandex.net&pbk=mWxcYeYE-M3iE0RBjTzG88QI9kj2wivJDoIYDu_aG3w&sid=29c2dd1e3ef7c4d4&encryption=none&fp=chrome#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20SNI%20White%20All%20RU%20%7C%20%F0%9F%87%A6%F0%9F%87%AA%20%D0%9E%D0%90%D0%AD%20%C2%B7%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%231
+vless://8732f92b-ba85-48f7-92e4-ad029f1cd4e7@45.59.120.217:443?type=tcp&security=reality&sni=strm.yandex.net&pbk=mWxcYeYE-M3iE0RBjTzG88QI9kj2wivJDoIYDu_aG3w&sid=29c2dd1e3ef7c4d4&encryption=none&fp=firefox#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20SNI%20White%20All%20RU%20%7C%20%F0%9F%87%A6%F0%9F%87%AA%20%D0%9E%D0%90%D0%AD%20%C2%B7%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%232
+vless://8732f92b-ba85-48f7-92e4-ad029f1cd4e7@45.59.120.217:443?type=tcp&security=reality&sni=strm.yandex.net&pbk=mWxcYeYE-M3iE0RBjTzG88QI9kj2wivJDoIYDu_aG3w&sid=29c2dd1e3ef7c4d4&encryption=none&fp=safari#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20SNI%20White%20All%20RU%20%7C%20%F0%9F%87%A6%F0%9F%87%AA%20%D0%9E%D0%90%D0%AD%20%C2%B7%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%233
