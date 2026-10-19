@@ -1,11 +1,13 @@
 # profile-title: 🌀 CYBERPORTAL WL — SNI White All RU
 # profile-update-interval: 1
-# updated: 19.10.2026 21:18 MSK
+# updated: 20.10.2026 00:33 MSK
 # Назначение: SNI, полный белый список РФ
 # TG chat: @strbypass
 # TG: https://t.me/STR_BYPASS
-# Date/Time: 2026-10-19 / 21:12 (Moscow)
-# Количество: 3
-vless://e667f5c7-6b38-48ef-ab89-40519713afb0@bs.90909.club:2096?security=reality&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=vless-grpc-reality&fp=android#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20SNI%20White%20All%20RU%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%C2%B7%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%231
-vless://e667f5c7-6b38-48ef-ab89-40519713afb0@bs.90909.club:2096?security=reality&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=vless-grpc-reality&fp=firefox#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20SNI%20White%20All%20RU%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%C2%B7%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%232
-vless://e667f5c7-6b38-48ef-ab89-40519713afb0@bs.90909.club:2096?security=reality&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=vless-grpc-reality&fp=ios#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20SNI%20White%20All%20RU%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%C2%B7%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%233
+# Date/Time: 2026-10-20 / 00:26 (Moscow)
+# Количество: 5
+vless://b1097a54-29de-4014-962c-c835d96e8409@109.120.150.245:2053?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.rutube.ru&pbk=iywsgYk8P1mWMu9xBjwpJQnBNGSH43RKSaaRVVv75S0&sid=c342eb1745bbaefd&spx=%2F&fp=android#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20SNI%20White%20All%20RU%20%231
+vless://b1097a54-29de-4014-962c-c835d96e8409@109.120.150.245:2053?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.rutube.ru&pbk=iywsgYk8P1mWMu9xBjwpJQnBNGSH43RKSaaRVVv75S0&sid=c342eb1745bbaefd&spx=%2F&fp=chrome#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20SNI%20White%20All%20RU%20%232
+vless://b1097a54-29de-4014-962c-c835d96e8409@109.120.150.245:2053?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.rutube.ru&pbk=iywsgYk8P1mWMu9xBjwpJQnBNGSH43RKSaaRVVv75S0&sid=c342eb1745bbaefd&spx=%2F&fp=firefox#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20SNI%20White%20All%20RU%20%233
+vless://b1097a54-29de-4014-962c-c835d96e8409@109.120.150.245:2053?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.rutube.ru&pbk=iywsgYk8P1mWMu9xBjwpJQnBNGSH43RKSaaRVVv75S0&sid=c342eb1745bbaefd&spx=%2F&fp=qq#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20SNI%20White%20All%20RU%20%234
+vless://b1097a54-29de-4014-962c-c835d96e8409@109.120.150.245:2053?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.rutube.ru&pbk=iywsgYk8P1mWMu9xBjwpJQnBNGSH43RKSaaRVVv75S0&sid=c342eb1745bbaefd&spx=%2F&fp=safari#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20SNI%20White%20All%20RU%20%235
