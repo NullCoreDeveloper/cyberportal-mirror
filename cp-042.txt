@@ -1,6 +1,6 @@
 # profile-title: 🌀 CYBERPORTAL WL — White Keys
 # profile-update-interval: 1
-# updated: 02.11.2026 01:38 MSK
+# updated: 02.11.2026 09:43 MSK
 # Назначение: VLESS, белые списки
 # TG chat: @strbypass
 # TG: https://t.me/STR_BYPASS
