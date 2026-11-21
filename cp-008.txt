@@ -1,12 +1,10 @@
 # profile-title: 🌀 CYBERPORTAL WL — SNI White All RU
 # profile-update-interval: 1
-# updated: 20.11.2026 20:21 MSK
+# updated: 21.11.2026 18:06 MSK
 # Назначение: SNI, полный белый список РФ
 # TG chat: @strbypass
 # TG: https://t.me/STR_BYPASS
-# Date/Time: 2026-11-20 / 20:18 (Moscow)
-# Количество: 4
-vless://789e8726-e44c-438d-9635-18b181b74b93@152.234.248.73:8443?security=reality&encryption=none&pbk=kY32I2PvI5UYqhjoZlcL0z6V6r1AV_lLZolQH78ApmU&headerType=&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=ae575a16aa1a19a9&fp=edge#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20SNI%20White%20All%20RU%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20%C2%B7%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%231
-vless://789e8726-e44c-438d-9635-18b181b74b93@152.234.248.73:8443?security=reality&encryption=none&pbk=kY32I2PvI5UYqhjoZlcL0z6V6r1AV_lLZolQH78ApmU&headerType=&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=ae575a16aa1a19a9&fp=firefox#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20SNI%20White%20All%20RU%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20%C2%B7%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%232
-vless://789e8726-e44c-438d-9635-18b181b74b93@152.234.248.73:8443?security=reality&encryption=none&pbk=kY32I2PvI5UYqhjoZlcL0z6V6r1AV_lLZolQH78ApmU&headerType=&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=ae575a16aa1a19a9&fp=ios#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20SNI%20White%20All%20RU%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20%C2%B7%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%233
-vless://789e8726-e44c-438d-9635-18b181b74b93@152.234.248.73:8443?security=reality&encryption=none&pbk=kY32I2PvI5UYqhjoZlcL0z6V6r1AV_lLZolQH78ApmU&headerType=&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=ae575a16aa1a19a9&fp=safari#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20SNI%20White%20All%20RU%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20%C2%B7%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%234
+# Date/Time: 2026-11-21 / 18:01 (Moscow)
+# Количество: 2
+vless://32cb2801-4ae0-4200-900f-a0be39bd5d2f@194.87.222.205:8443?security=reality&flow=xtls-rprx-vision&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&sid=d8d4ee29&sni=storage.yandexcloud.net&fp=firefox#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20SNI%20White%20All%20RU%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%231
+vless://32cb2801-4ae0-4200-900f-a0be39bd5d2f@194.87.222.205:8443?security=reality&flow=xtls-rprx-vision&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&sid=d8d4ee29&sni=storage.yandexcloud.net&fp=safari#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20SNI%20White%20All%20RU%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%232
